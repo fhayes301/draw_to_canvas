@@ -1,0 +1,10 @@
+#myCanvas {
+  height: 1024px;
+  width: 1024px;
+  border: 1px solid gray;
+}
+
+.my_polygon {
+    border: 1px dotted #FF0000;
+    position: absolute;
+}
